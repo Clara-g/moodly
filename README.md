@@ -1,4 +1,4 @@
-# Mini SaaS – Suivi de l’humeur & Collaboration en équipe
+# Moodly Saas – Suivi de l’humeur & Collaboration en équipe
 
 **Un outil open source et respectueux de la vie privée pour suivre le moral, partager les ressentis et favoriser l’entraide au sein des équipes.**
 
@@ -49,8 +49,8 @@ Offrir un outil accessible, personnalisable et respectueux de la vie privée, pe
 ## ⚡ Installation rapide
 
 ```bash
-git clone https://github.com/votre-utilisateur/mini-saas-humeur.git
-cd mini-saas-humeur
+git clone https://github.com/Clara-g/moodly.git
+cd moodly
 # Backend
 cd backend
 npm install
@@ -114,12 +114,6 @@ Consultez le fichier [`CONTRIBUTING.md`](CONTRIBUTING.md) pour plus d’infos.
 
 Ce projet est distribué sous licence [MIT](LICENSE).
 
----
-
-## 💬 Contact & Communauté
-
-Questions, retours, suggestions ?  
-Ouvrez une issue ou contactez-nous via [contact@mini-saas-humeur.org](mailto:contact@mini-saas-humeur.org)
 
 ---
 
